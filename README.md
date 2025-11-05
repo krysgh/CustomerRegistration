@@ -38,8 +38,8 @@ Certifique-se de ter os seguintes softwares instalados:
 
 ### 2. Clonar o Repositório
 
-Abra seu terminal ou prompt de comando e clone o projeto:
+Abra seu terminal ou prompt de comando e clone o projeto. O URL do repositório é: **`https://github.com/krysgh/CustomerRegistration`**.
 
 ```bash
-git clone [URL_DO_SEU_REPOSITORIO]
-cd nome-do-seu-projeto
+git clone [https://github.com/krysgh/CustomerRegistration](https://github.com/krysgh/CustomerRegistration)
+cd CustomerRegistration
