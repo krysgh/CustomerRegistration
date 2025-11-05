@@ -70,7 +70,7 @@ Após o servidor iniciar com sucesso (a porta padrão é 8080):
 
 * Abra seu navegador e acesse a URL da listagem de clientes:
 
-$$\text{http://localhost:8080/clientes}$$
+http://localhost:8080/clientes
 
 ---
 
@@ -80,4 +80,21 @@ Aqui estão algumas capturas de tela das funcionalidades implementadas no sistem
 
 ### 1. Tela de Listagem de Clientes (Vazia)
 Representa a tela inicial quando não há clientes cadastrados.
-http://googleusercontent.com/image_generation_content/1
+<img width="1916" height="1025" alt="main" src="https://github.com/user-attachments/assets/624c0a3d-ff51-467f-bbbd-b8c80f5be42b" />
+
+### 2. Tela de Inserção de Clientes
+Representa a tela de inserção de um novo cliente.
+<img width="1915" height="1026" alt="insert" src="https://github.com/user-attachments/assets/735cabe0-f306-4197-86e6-4cd0aeffc3a7" />
+
+### 3. Tela de Listagem de Clientes (Com pelo menos 1 registro)
+Representa a tela inicial quando há clientes cadastrados.
+<img width="1917" height="1029" alt="list" src="https://github.com/user-attachments/assets/fdb426b2-d827-4c9e-a7e3-97ba39dea6ce" />
+
+### 4. Tela de Atualização de Clientes
+Representa a tela de atualização de clientes cadastrados.
+<img width="1916" height="1027" alt="update" src="https://github.com/user-attachments/assets/5acf4823-a8d7-4183-be43-529eb83a6a08" />
+
+### 5. Tela de Exclusão de Clientes
+Representa a tela de exclusão de um cliente cadastrado.
+<img width="1913" height="1027" alt="delete" src="https://github.com/user-attachments/assets/950b477f-755e-44f2-bd85-8b6338198d52" />
+
