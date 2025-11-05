@@ -35,7 +35,7 @@ Certifique-se de ter os seguintes softwares instalados:
 Abra seu terminal e clone o projeto. O URL do repositório é: `https://github.com/krysgh/CustomerRegistration`.
 
 ```bash
-git clone [https://github.com/krysgh/CustomerRegistration](https://github.com/krysgh/CustomerRegistration)
+git clone https://github.com/krysgh/CustomerRegistration
 cd CustomerRegistration
 ```
 
